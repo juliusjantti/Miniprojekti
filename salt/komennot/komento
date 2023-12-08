@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+echo TerveppäTerveMenoa "$USER"
+
+date
+
+echo Onko tänään hyvä vai huono päivä?
